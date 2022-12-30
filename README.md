@@ -1,8 +1,8 @@
 ### "Hello word!" 👋 Eu sou Jorge Silva
 
-- Atualmente cursando na Etec Dr. Demétrio Azevedo Junior
-- Aluno do curso Desenvolvimento de Sistemas
+- Formado na Etec Dr. Demétrio Azevedo Junior
 - Trabalho com desenvolvimento front-end e UI UX
+- Conhecimento em Back-end afim de se tornar full-stack
 - Dominando JavaScript
 - Estudando TypeScript
 - Base forte em Angular
